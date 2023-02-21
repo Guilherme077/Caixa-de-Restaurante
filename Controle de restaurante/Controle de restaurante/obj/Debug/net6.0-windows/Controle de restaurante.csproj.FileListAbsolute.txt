@@ -1,0 +1,18 @@
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.exe
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.deps.json
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.runtimeconfig.json
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.dll
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.pdb
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle_de_restaurante.Form1.resources
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.csproj.GenerateResource.cache
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.dll
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\refint\Controle de restaurante.dll
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.pdb
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.genruntimeconfig.cache
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\ref\Controle de restaurante.dll
+C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.dll.config
