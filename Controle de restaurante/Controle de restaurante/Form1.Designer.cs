@@ -423,7 +423,6 @@
             this.TxtSubtotal.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.TxtSubtotal.Location = new System.Drawing.Point(482, 532);
             this.TxtSubtotal.Name = "TxtSubtotal";
-            this.TxtSubtotal.ReadOnly = true;
             this.TxtSubtotal.Size = new System.Drawing.Size(175, 34);
             this.TxtSubtotal.TabIndex = 15;
             this.TxtSubtotal.TextChanged += new System.EventHandler(this.textBox10_TextChanged);

@@ -16,3 +16,21 @@ C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\
 C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.genruntimeconfig.cache
 C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\ref\Controle de restaurante.dll
 C:\Users\guilh\source\repos\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.dll.config
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.exe
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.dll.config
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.deps.json
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.runtimeconfig.json
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.dll
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\bin\Debug\net6.0-windows\Controle de restaurante.pdb
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.csproj.AssemblyReference.cache
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle_de_restaurante.Form1.resources
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.csproj.GenerateResource.cache
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.AssemblyInfoInputs.cache
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.AssemblyInfo.cs
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.csproj.CoreCompileInputs.cache
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.dll
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\refint\Controle de restaurante.dll
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.pdb
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\Controle de restaurante.genruntimeconfig.cache
+G:\PROJETOS(GIT)\Caixa-de-Restaurante\Controle de restaurante\Controle de restaurante\obj\Debug\net6.0-windows\ref\Controle de restaurante.dll
